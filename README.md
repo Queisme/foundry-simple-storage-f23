@@ -70,3 +70,7 @@ $ cast --help
 1. Install `foundry-zksync`
 2. Compile with `--zksync`
 3. Reinstall vanilla foundry
+
+
+foundryup - vanilla foundry 0.2.0
+foundryup-zksync - zkSync version 0.0.2
